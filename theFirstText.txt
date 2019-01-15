@@ -4,4 +4,4 @@
 
 masterをコピーして編集した。
 
-sourcetree
+sourcetree-test
