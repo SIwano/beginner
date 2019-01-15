@@ -1,2 +1,2 @@
 # beginner
-To learn how to do.
+To learn how to do!
